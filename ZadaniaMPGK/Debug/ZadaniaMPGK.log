@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\konra\Desktop\Uni\2 semestr\MatematycznePodstawyGrafikiKomputerowej\Skwarczynski\moje\MPGK\MPGK\ZadaniaMPGK\RadianyStopnie.h(7,25): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\konra\Desktop\Uni\2 semestr\MatematycznePodstawyGrafikiKomputerowej\Skwarczynski\moje\MPGK\MPGK\ZadaniaMPGK\RadianyStopnie.h(12,25): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\konra\Desktop\Uni\2 semestr\MatematycznePodstawyGrafikiKomputerowej\Skwarczynski\moje\MPGK\MPGK\ZadaniaMPGK\Wektor.h(357): warning C4172: returning address of local variable or temporary: w3
+  ZadaniaMPGK.vcxproj -> C:\Users\konra\Desktop\Uni\2 semestr\MatematycznePodstawyGrafikiKomputerowej\Skwarczynski\moje\MPGK\MPGK\Debug\ZadaniaMPGK.exe
